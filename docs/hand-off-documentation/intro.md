@@ -1,11 +1,25 @@
 ---
 id: intro
-title: Handoff Document Introduction
+title: Handoff Documentation
 sidebar_position: 1
 ---
 
-# Getting Started
+# Welcome to the Handoff Docs 👋
 
-This is the handoff documentation introduction page.
+These pages are a **quick‑start guide for new maintainers** taking over _AwesomeProject_.
+They capture the why, how, and what‑next so knowledge never walks out the door.
 
-Content goes here.
+## Who should read this?
+
+- **Incoming owners** inheriting the codebase
+- **Rotation engineers** covering support shifts
+- **External contributors** getting write access
+
+## What’s inside?
+
+1.  High‑level system picture and terminology
+2.  Deployment & release playbook
+3.  Checklist of open tasks and stretch goals
+4.  Credits and acknowledgements
+
+👉 Start with **Overview** for architecture, then **Next Steps** to get the app running locally.

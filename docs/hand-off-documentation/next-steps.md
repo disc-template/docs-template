@@ -1,9 +1,11 @@
 ---
 id: next-steps
-title: Project Next Steps
+title: Local Setup & Next Steps
 sidebar_position: 3
 ---
 
-# Hello world
+# What’s next?
 
-Content goes here.
+- Review **open issues** tagged `good‑first‑issue`.
+- Read the **Credits** page to know who’s who.
+- Check **ACKNOWLEDGEMENTS** for external resources we rely on.

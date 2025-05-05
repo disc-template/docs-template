@@ -50,17 +50,17 @@ const DocumentationSidebar: SidebarsConfig = {
         {
           type: "doc",
           id: "hand-off-documentation/next-steps",
-          label: "Installation",
+          label: "Next Steps",
         },
         {
           type: "doc",
           id: "hand-off-documentation/credits",
-          label: "Usage",
+          label: "Credits",
         },
         {
           type: "doc",
           id: "hand-off-documentation/acknowledgements",
-          label: "FAQ",
+          label: "Acknowledgements",
         },
       ],
     },
